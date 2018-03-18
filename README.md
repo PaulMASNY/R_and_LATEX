@@ -7,7 +7,7 @@ In combination with GIT, this solution allows :
 * Group report writing through GIT branches and merges: Every change is controlled 
 and tracked.
 
-* Direct report writing: Datas, graphics and code listings are "one-way" compiled 
+* Direct report writing: Datas, graphics and code listings are "one-way knitted" 
 straight from your Latex document. 
 Knitr will call R from TexStudio and compile your report on the go without copying-pasting. 
 #
